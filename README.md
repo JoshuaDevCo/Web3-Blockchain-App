@@ -21,5 +21,5 @@ Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a y
 
 
 # Link of the Project 
-
+https://dev.d2rtpogd5l5xpy.amplifyapp.com/
 
